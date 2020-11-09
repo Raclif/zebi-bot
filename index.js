@@ -16,4 +16,4 @@ client.on('ready', () => {
 
 CMD.listen(prefix, client);
 
-client.login(token);
+client.login("Nzc1NDQxNzM3NTU1NzcxNDAy.X6mYZQ.Q9OsErKgJrO4WsbzT6OF6DoLE6A");
